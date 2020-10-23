@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/AlexRFarnes/404-not-found/main/.github/images/Capture.png>)
+![screenshot](https://raw.githubusercontent.com/AlexRFarnes/404-not-found/main/.github/images/Capture.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 

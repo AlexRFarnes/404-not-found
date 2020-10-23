@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="objective-noyce-98251c.netlify.app">
+    <a href="https://objective-noyce-98251c.netlify.app">
       Demo
     </a>
     <span> | </span>
